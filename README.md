@@ -5,6 +5,10 @@ Small util for creation dump of JS libraries.
 * Linux
 * Bower (nodejs)
 
+## Libraries
+    
+    http://bower.io/search/
+
 ## To run
 
     python collector.py
